@@ -1,0 +1,19 @@
+{
+  "$type": "ThunderRoad.ContainerData, ThunderRoad",
+  "id": "Mage",
+  "sensitiveContent": "None",
+  "sensitiveFilterBehaviour": "Discard",
+  "version": 1,
+  "displayName": "",
+  "description": null,
+  "contents": [
+    {
+      "$type": "ThunderRoad.ContainerData+Content, ThunderRoad",
+      "reference": "Item",
+      "referenceID": "SpellDeathBeam",
+      "quantity": 1,
+      "state": null,
+      "customDataList": []
+    }
+  ]
+}

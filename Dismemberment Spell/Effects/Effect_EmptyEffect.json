@@ -1,0 +1,6 @@
+{
+	"$type": "ThunderRoad.EffectData, ThunderRoad",
+	"id": "EmptyEffect",
+	"saveFolder": "bas",
+	"version": 0
+}

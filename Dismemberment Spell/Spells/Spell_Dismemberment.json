@@ -1,0 +1,17 @@
+{
+	"$type": "Dismembratio.Spell, Dismembratio",
+	"id": "Dismemberment",
+	"saveFolder": "bas",
+	"version": 0,
+	"chargeEffectId": "SpellDismembermentCharge",
+	"fingerEffectId": "EmptyEffect",
+	"openHandPoseId": "ChargeOpen",
+	"closeHandPoseId": "ChargeClose",
+	"chargeSpeed": 99.0,
+	"stopSpeed": 99.0,
+	"grabbedFireMaxCharge": 0.25,
+	"sprayHeadToFireMaxAngle": 45.0,
+	"sprayMinCharge": 0.5,
+	"aiCastType": "CastSimple",
+	"loopMaxDuration": 5.0
+}

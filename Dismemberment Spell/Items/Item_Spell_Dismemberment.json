@@ -1,0 +1,27 @@
+{
+    "$type": "ThunderRoad.ItemData, ThunderRoad",
+    "id": "SpellDismemberment",
+    "saveFolder": "Bas",
+    "version": 4,
+    "displayName": "Dismemberment",
+    "author": "Kishi",
+    "iconEffectId": "SpellOrbDismemberment",
+    "type": "Spell",
+    "mass": 1.0,
+    "drag": 1.0,
+    "angularDrag": 1.0,
+    "manaRegenMultiplier": 1.0,
+    "spellChargeSpeedPlayerMultiplier": 1.0,
+    "spellChargeSpeedNPCMultiplier": 1.0,
+    "forceLayer": "None",
+    "flyRotationSpeed": 2.0,
+    "telekinesisSafeDistance": 1.0,
+    "telekinesisSpinEnabled": true,
+    "telekinesisThrowRatio": 1.0,
+    "modules": [
+        {
+            "$type": "ThunderRoad.ItemModuleSpell, Assembly-CSharp",
+            "spellId": "Dismemberment"
+        }
+    ]
+}

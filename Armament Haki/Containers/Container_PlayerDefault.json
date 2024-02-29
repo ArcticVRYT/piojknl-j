@@ -1,0 +1,26 @@
+{
+  "$type": "ThunderRoad.ContainerData, Assembly-CSharp",
+  "id": "PlayerDefault",
+  "saveFolder": "Bas",
+  "version": 1,
+  "displayName": "",
+  "description": null,
+  "contents": [
+    {
+      "$type": "ThunderRoad.ContainerData+Content, ThunderRoad",
+      "reference": "Item",
+      "referenceID": "SpellArmamentHaki",
+      "quantity": 1,
+      "state": null,
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.ContainerData+Content, ThunderRoad",
+      "reference": "Item",
+      "referenceID": "SpellArmamentHakiMerge",
+      "quantity": 1,
+      "state": null,
+      "customDataList": []
+    }
+  ]
+}

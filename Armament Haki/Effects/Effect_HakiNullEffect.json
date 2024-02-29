@@ -1,0 +1,9 @@
+{
+  "$type": "ThunderRoad.EffectData, ThunderRoad",
+  "id": "HakiNullEffect",
+  "saveFolder": "bas",
+  "version": 0,
+  "groupId": "Fire",
+  "volumeDb": 0.0,
+  "modules": []
+}

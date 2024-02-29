@@ -1,0 +1,18 @@
+{
+  "$type": "ThunderRoad.ContainerData, Assembly-CSharp",
+  "id": "PlayerDefault",
+  "saveFolder": "Bas",
+  "version": 1,
+  "displayName": "",
+  "description": null,
+  "contents": [
+    {
+      "$type": "ThunderRoad.ContainerData+Content, ThunderRoad",
+      "referenceID": "SpellDestructoDisc",
+      "reference": 0,
+      "quantity": 1,
+      "state": null,
+      "customDataList": []
+    }
+  ]
+}
